@@ -3,4 +3,23 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="colorRedActivityDontDone">#F44336</color>
+    <color name="colorGreenActivityDone">#4CAF50</color>
+    <color name="colorGrayActivityPending">#9E9E9E</color>
+
+    <!-- Main colors app -->
+    <color name="greenLine">#329555</color>
+    <color name="emeraldGreen">#00C957</color>
+    <color name="seaGreen">#54FF9F</color>
+    <color name="hotPink">#FF69B4</color>
+    <color name="nightBlack">#0C090A</color>
+    <color name="whiteBackground">#FFFFFF</color>
+    <color name="shadowGray">#9B9D99</color>
+
+    <!-- Gradient most efficient colors -->
+    <color name="clearGreen">#f799ff99</color>
+    <color name="mediumGreen">#00C957</color>
+    <color name="hardGreen">#e90a451d</color>
+    <color name="whitTextButton">#ffffff</color>
+
 </resources>
